@@ -15,12 +15,12 @@ export const options = {
   },
   stages: [
     { duration: '10s', target: 10 },
-    { duration: '30s', target: 10 },
-    { duration: '10s', target: 10 },
-    { duration: '30s', target: 10 },
-    { duration: '10s', target: 10 },
-    { duration: '30s', target: 10 },
-    { duration: '10s', target: 10 }
+    { duration: '30s', target: 30 },
+    { duration: '10s', target: 40 },
+    { duration: '30s', target: 60 },
+    { duration: '10s', target: 70 },
+    { duration: '30s', target: 90 },
+    { duration: '10s', target: 100 }
   ]
 };
 

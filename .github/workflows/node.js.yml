@@ -19,3 +19,4 @@ jobs:
         uses: grafana/run-k6-action@v1.1.3
         with:
           path: src/tests
+      - run: npm run ci
